@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 
 # Site settings
-title: Liyang's Blog                     #你博客的标题
-SEOTitle: 你的博客 | You Blog        #显示在浏览器上搜索的时候显示的标题
+title: Liyang's Blog(你博客的标题)                     #你博客的标题
+SEOTitle: 你的博客 | You Blog (显示在浏览器上搜索的时候显示的标题)        #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
 email: You@gmail.com    
 description: "You Blog"              #网站介绍
