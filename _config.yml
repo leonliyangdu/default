@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 # Site settings
-title: You Blog                     #你博客的标题
+title: Liyang's Blog                     #你博客的标题
 SEOTitle: 你的博客 | You Blog        #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-rwd.jpg     #显示在首页的背景图片
 email: You@gmail.com    
@@ -17,7 +17,7 @@ sidebar-avatar: /15541562164299_.pic_hd.jpg      # 你的个人头像 这里你�
 
 # SNS settings
 RSS: false
-weibo_username:     username
+weibo_username:     秃头少年诸葛菊香
 zhihu_username:     username
 github_username:    username
 facebook_username:  username
